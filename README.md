@@ -1,8 +1,6 @@
 ### Olá! Eu sou o Ricardo Aguiar! 👋
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardo-agmg1/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ricardomiguens/)
-![Ricardo GitHub stats](https://github-readme-stats.vercel.app/api?username=ricardoagmg&show_icons=true&theme=tokyonight&count_private=true&locale=pt-br)
-
 
 ### 🚀 Tech Stack que uso no meu dia 🚀
 <div style="display: inline_block"><br/>
