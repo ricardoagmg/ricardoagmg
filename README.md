@@ -12,4 +12,5 @@
     <img align="center" alt="express" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
 </div>
 
+https://www.codewars.com/users/ricardoag1/badges/large
 
